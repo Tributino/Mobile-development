@@ -1,5 +1,5 @@
 # Mobile-development
-Assignments, small Projects that I had during my mobile app development course and the final project.
+Assignments, small projects that I had during my mobile app development program and the Final project.
 
 
 ## Dijkstra_Project
