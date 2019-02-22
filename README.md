@@ -24,13 +24,15 @@ Solve the following problems by writing Java classes:
 
 ## Assigment6 Java Programming
 
-## Assignment8 Iterator/Iterable and Observer/Observable Design Patterns
-- **Problem 1: Iterator/Iterable**
-- **Problem 2: Iterator/Iterable + Generic Type**
-- **Problem 3: Iterator/Iterable + Generic Type**
-- **Problem 4: Observer/Observable**
-- **Problem 5: Observer/Observable + Iterator/Iterable**
-- **Problem 6: Observer/Observable + Generic Type**
+Simulating a merchant cashier operations. Creating classes, objects and properties and defining variables.
+
+## Assignment8 Iterator/Iterable and Observer/Observable Design Patterns in Java
+- **Problem 1: Iterator/Iterable
+- **Problem 2: Iterator/Iterable + Generic Type
+- **Problem 3: Iterator/Iterable + Generic Type
+- **Problem 4: Observer/Observable
+- **Problem 5: Observer/Observable + Iterator/Iterable
+- **Problem 6: Observer/Observable + Generic Type
 
 ## Delegate Project 
 
@@ -45,4 +47,8 @@ There is a class called *PatternProvider* which can print different patterns usi
 
 ## Project The Castle Company
 
-## Project The Transformation Company  
+For a given array that allocate geography information of a determined location, verify the amount of possible castles to be build, considering specific restrictions.
+
+## Project Transformers Game 
+
+The Transformers are at war and you are in charge of settling the score! You’re to evaluate who wins a fight between the Autobots and the Decepticons. 
